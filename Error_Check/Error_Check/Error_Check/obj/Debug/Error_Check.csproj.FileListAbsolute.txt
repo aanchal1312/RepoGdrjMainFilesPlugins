@@ -1,0 +1,8 @@
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\obj\Debug\Error_Check.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\obj\Debug\Error_Check.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\bin\Debug\Error_Check.dll
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\bin\Debug\Error_Check.pdb
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\obj\Debug\Error_Check.csproj.CopyComplete
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\obj\Debug\Error_Check.dll
+D:\Godrej\Plugins\Error_Check\Error_Check\Error_Check\obj\Debug\Error_Check.pdb

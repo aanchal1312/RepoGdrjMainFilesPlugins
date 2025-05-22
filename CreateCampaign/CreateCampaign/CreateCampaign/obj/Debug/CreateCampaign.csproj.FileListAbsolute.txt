@@ -1,0 +1,24 @@
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.dll
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.pdb
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.CopyComplete
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.dll
+D:\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.pdb
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.dll
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\CreateCampaign.pdb
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCa.A58E8A30.Up2Date
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.dll
+C:\Users\acer\Downloads\Plugins 2\CreateCampaign\CreateCampaign\CreateCampaign\obj\Debug\CreateCampaign.pdb

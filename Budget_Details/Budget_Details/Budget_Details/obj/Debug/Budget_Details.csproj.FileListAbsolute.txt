@@ -1,0 +1,16 @@
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Budget_Details.dll
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Budget_Details.pdb
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.CopyComplete
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.dll
+D:\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Budget_Details.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Budget_Details.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Budget_Details\Budget_Details\Budget_Details\obj\Debug\Budget_Details.pdb

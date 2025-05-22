@@ -1,0 +1,15 @@
+D:\Godrej\Plugins\ResetForm\ResetForm\bin\Debug\ResetForm.dll
+D:\Godrej\Plugins\ResetForm\ResetForm\bin\Debug\ResetForm.pdb
+D:\Godrej\Plugins\ResetForm\ResetForm\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.CopyComplete
+D:\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.dll
+D:\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\bin\Debug\ResetForm.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\bin\Debug\ResetForm.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\ResetForm\ResetForm\obj\Debug\ResetForm.pdb

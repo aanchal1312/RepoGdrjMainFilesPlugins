@@ -1,0 +1,24 @@
+D:\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\CPM Email.dll
+D:\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\CPM Email.pdb
+D:\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.CopyComplete
+D:\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.dll
+D:\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\CPM Email.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\CPM Email.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\CPM Email\CPM Email\obj\Debug\CPM Email.pdb
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\bin\Debug\CPM Email.dll
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\bin\Debug\CPM Email.pdb
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\obj\Debug\CPM Email.csproj.Up2Date
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\obj\Debug\CPM Email.dll
+C:\Users\acer\Downloads\Plugins 2\CPM Email\CPM Email\obj\Debug\CPM Email.pdb

@@ -1,0 +1,15 @@
+D:\Godrej\Plugins\SUM\SUM\bin\Debug\SUM.dll
+D:\Godrej\Plugins\SUM\SUM\bin\Debug\SUM.pdb
+D:\Godrej\Plugins\SUM\SUM\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.CopyComplete
+D:\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.dll
+D:\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\bin\Debug\SUM.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\bin\Debug\SUM.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\SUM\SUM\obj\Debug\SUM.pdb

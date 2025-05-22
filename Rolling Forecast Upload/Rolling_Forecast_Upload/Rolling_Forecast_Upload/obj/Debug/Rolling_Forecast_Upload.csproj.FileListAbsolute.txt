@@ -1,0 +1,8 @@
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\bin\Debug\Rolling_Forecast_Upload.dll
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\bin\Debug\Rolling_Forecast_Upload.pdb
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\obj\Debug\Rolling_Forecast_Upload.csproj.AssemblyReference.cache
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\obj\Debug\Rolling_Forecast_Upload.csproj.CoreCompileInputs.cache
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\obj\Debug\Rolling_Forecast_Upload.csproj.CopyComplete
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\obj\Debug\Rolling_Forecast_Upload.dll
+D:\Godrej\Plugins\Rolling Forecast Upload\Rolling_Forecast_Upload\Rolling_Forecast_Upload\obj\Debug\Rolling_Forecast_Upload.pdb

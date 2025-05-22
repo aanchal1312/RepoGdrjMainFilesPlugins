@@ -1,0 +1,8 @@
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\bin\Debug\Deleteanaplan.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\bin\Debug\Deleteanaplan.pdb
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\obj\Debug\Deleteanaplan.csproj.AssemblyReference.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\obj\Debug\Deleteanaplan.csproj.CoreCompileInputs.cache
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\obj\Debug\Deleteanaplan.csproj.CopyComplete
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\obj\Debug\Deleteanaplan.dll
+D:\Projects\Godrej Plugin\Godrej\Plugins\Delete_anaplan\Deleteanaplan\Deleteanaplan\obj\Debug\Deleteanaplan.pdb
