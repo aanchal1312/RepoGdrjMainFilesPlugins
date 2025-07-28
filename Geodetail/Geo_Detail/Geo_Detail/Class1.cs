@@ -343,13 +343,24 @@ namespace Geo_Detail
                 }
 
                 Guid marketId = marketData.Entities[0].Id;
-
+                /*
                 string universeQuery = $@"<fetch version='1.0' mapping='logical' no-lock='false' distinct='true'>
                     <entity name='zx_yt_universe'>
                         <attribute name='zx_universe'/>
                         <filter type='and'>
                             <condition attribute='statecode' operator='eq' value='0'/>
                             <condition attribute='zx_sumofallmarketsuniverse' operator='eq' value='1'/>
+                            <condition attribute='zx_medium' operator='eq' value='{campaignTypeId}' uitype='zx_campaigntype'/>
+                            <condition attribute='zx_market' operator='eq' value='{marketId}' uitype='zx_markets'/>
+                        </filter>
+                    </entity>
+                </fetch>";*/
+
+                string universeQuery = $@"<fetch version='1.0' mapping='logical' no-lock='false' distinct='true'>
+                    <entity name='zx_yt_universe'>
+                        <attribute name='zx_universe'/>
+                        <filter type='and'>
+                            <condition attribute='statecode' operator='eq' value='0'/>
                             <condition attribute='zx_medium' operator='eq' value='{campaignTypeId}' uitype='zx_campaigntype'/>
                             <condition attribute='zx_market' operator='eq' value='{marketId}' uitype='zx_markets'/>
                         </filter>
@@ -439,27 +450,113 @@ namespace Geo_Detail
 
                 Guid hindiLangId = language(service, "Hindi");
                 Guid marathiLangId = language(service, "Marathi");
+                
                 if (hindiLangId != Guid.Empty)
                 {
-                    AddUniqueLanguage(finalLanguageArray, "Hindi", hindiLangId);
-                    uniqueLanguages.Add("Hindi");
+                    
+                        bool creativeAvailable_1 = false;
+                        
+                            string creativeFetch_1 = $@"<fetch version='1.0' mapping='logical' no-lock='false' distinct='true'>
+                            <entity name='zx_creative'>
+                                <attribute name='zx_creativeid'/>
+                                <filter type='and'>
+                                    <condition attribute='statecode' operator='eq' value='0'/>
+                                    <condition attribute='zx_medium' operator='eq' value='{((EntityReference)campaign["zx_campaigntype"]).Id}'/>
+                                    <condition attribute='zx_variant' operator='eq' value='{((EntityReference)campaign["zx_variant"]).Id}'/>
+                                    <condition attribute='zx_language' operator='eq' value='{hindiLangId}'/>
+                                </filter>
+                            </entity>
+                        </fetch>";
+
+                            EntityCollection creativeCollection_1 = service.RetrieveMultiple(new FetchExpression(creativeFetch_1));
+                    creativeAvailable_1 = creativeCollection_1.Entities.Count > 0;
+                        
+
+                    if (creativeAvailable_1)
+                    {
+
+                        AddUniqueLanguage(finalLanguageArray, "Hindi", hindiLangId);
+                        uniqueLanguages.Add("Hindi");
+                        if (hindiLangId != Guid.Empty)
+                            CreateLanguageCreatives(service, campaign, hindiLangId);
+                        
+
+                    }
+                    
+
+                        //new code end for creatives checks
+
+
+
+                       /* AddUniqueLanguage(finalLanguageArray, "Hindi", hindiLangId);
+                    uniqueLanguages.Add("Hindi");*/
                 }
                 if (marathiLangId != Guid.Empty)
                 {
-                    AddUniqueLanguage(finalLanguageArray, "Marathi", marathiLangId);
-                    uniqueLanguages.Add("Marathi");
+                    /*AddUniqueLanguage(finalLanguageArray, "Marathi", marathiLangId);
+                    uniqueLanguages.Add("Marathi");*/
+
+
+                    bool creativeAvailable_2 = false;
+
+                    string creativeFetch_2 = $@"<fetch version='1.0' mapping='logical' no-lock='false' distinct='true'>
+                            <entity name='zx_creative'>
+                                <attribute name='zx_creativeid'/>
+                                <filter type='and'>
+                                    <condition attribute='statecode' operator='eq' value='0'/>
+                                    <condition attribute='zx_medium' operator='eq' value='{((EntityReference)campaign["zx_campaigntype"]).Id}'/>
+                                    <condition attribute='zx_variant' operator='eq' value='{((EntityReference)campaign["zx_variant"]).Id}'/>
+                                    <condition attribute='zx_language' operator='eq' value='{marathiLangId}'/>
+                                </filter>
+                            </entity>
+                        </fetch>";
+
+                    EntityCollection creativeCollection_2 = service.RetrieveMultiple(new FetchExpression(creativeFetch_2));
+                    creativeAvailable_2 = creativeCollection_2.Entities.Count > 0;
+
+
+                    if (creativeAvailable_2)
+                    {
+
+                        AddUniqueLanguage(finalLanguageArray, "Marathi", marathiLangId);
+                        uniqueLanguages.Add("Marathi");
+                       
+                        if (marathiLangId != Guid.Empty)
+                            CreateLanguageCreatives(service, campaign, marathiLangId);
+
+                    }
+
+
+                    //new code end for creatives checks
+
+
+
+
                 }
 
-                bd["zx_regionallanguagetext"] = "Hindi;Marathi";
-                bd["zx_regionallanguages"] = finalLanguageArray.ToString();
-                bd["zx_geobudgetsplitvalue"] = existingGeoBudgetSplit;
-                bd["zx_hindiuniversal"] = "";
-                bd["zx_englishuniversal"] = "";
+                
+                if (!(uniqueLanguages.Any())) {
+                    
+                    Guid english = language(service, "English");
+                    AddUniqueLanguage(finalLanguageArray, "English", english);
+                    CreateLanguageCreatives(service, campaign, english);
 
+                    //bd["zx_regionallanguagetext"] = uniqueLanguages.Any() ? string.Join(";", uniqueLanguages) : "English";//"Hindi;Marathi";
+                    //bd["zx_regionallanguages"] = finalLanguageArray.ToString();
+                    bd["zx_regionallanguagetext"] = "";
+                    bd["zx_regionallanguages"] = "";
+                    bd["zx_commonlanguageforgeosplit"] =  "English";
+                    bd["zx_geobudgetsplitvalue"] = existingGeoBudgetSplit;
+                    bd["zx_hindiuniversal"] = "";
+                    bd["zx_englishuniversal"] = "";
+                };
+                bd["zx_geobudgetsplitvalue"] = existingGeoBudgetSplit;
+
+                /*
                 if (hindiLangId != Guid.Empty)
                     CreateLanguageCreatives(service, campaign, hindiLangId);
                 if (marathiLangId != Guid.Empty)
-                    CreateLanguageCreatives(service, campaign, marathiLangId);
+                    CreateLanguageCreatives(service, campaign, marathiLangId);*/
             }
             else if (!isSingleMarket)
             {
